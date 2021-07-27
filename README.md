@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @victoraster2010
+- 🇧🇷 I'm from Brazil 
 - 👀 I’m interested in web Development, Javascript , ReactJS
 - 🌱 I’m currently learning foundations module at The Odin project, and a newbie at Trybe courses
 - 💞️ I’m looking to collaborate on anything web development related
