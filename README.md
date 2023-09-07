@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning foundations module at The Odin project, and at Computer Science module at Trybe
 - 💞️ I’m looking to collaborate on anything web development related
 - 📫 How to reach me: victoraster2014@gmail.com
-- 💡 Current Skillset is: Typescript,ES6,REST API, NodeJS, Express.js, MySql,Postgres, Sequelize, Heroku
+- 💡 Current Skillset is: Typescript,ES6,REST API, NodeJS, Express.js, MySql,Postgres, MongoDB, Mongoose, Sequelize, Heroku
 - 📖 Learning right Now Python, SOLID pattern, Django
 
 <!---
