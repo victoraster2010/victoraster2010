@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victoraster2010
 - 🇧🇷 I'm from Brazil 
-- 👀 I’m interested in web Development, Javascript , ReactJS
-- 🌱 I’m currently learning foundations module at The Odin project, and at Computer Science module at Trybe
+- 👀 I’m interested in web Development, Javascript , NodeJS, Typescript, Gaming, Foreign Languages 
+- 🌱 I’m currently learning foundations module at The Odin project, And Java, Spring, Hibernate
 - 💞️ I’m looking to collaborate on anything web development related
 - 📫 How to reach me: victoraster2014@gmail.com
 - 💡 Current Skillset is: Typescript,ES6,REST API, NodeJS, Express.js, MySql,Postgres, MongoDB, Mongoose, Sequelize, Heroku
